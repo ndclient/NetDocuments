@@ -1,7 +1,7 @@
 # NetDocuments v2.61
 
 Download latest version from Releases:       
-https://github.com/ndsuite/NetDocuments/releases/tag/v2.5
+https://github.com/ndsuite/NetDocuments/releases/tag/v2.61
 
 ## Introduction
 
